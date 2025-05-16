@@ -75,7 +75,7 @@ namespace Grade_Calculator
             }while (ContinueEnterMarks == "y");
 
             // Summary Report
-            Console.WriteLine("\n--- Summary Report ---");
+            Console.WriteLine("\n============ Summary Report ==============");
             Console.WriteLine("Total Students: " + totalStudents);
             Console.WriteLine("A Grades: " + Ac);
             Console.WriteLine("B Grades: " + Bc);
